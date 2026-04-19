@@ -1,0 +1,17 @@
+com\mycompany\smartcampusapi\model\SensorReading.class
+com\mycompany\smartcampusapi\SmartCampusApp.class
+com\mycompany\smartcampusapi\filter\AuthFilter.class
+com\mycompany\smartcampusapi\exception\GlobalExceptionMapper.class
+com\mycompany\smartcampusapi\resource\SensorReadingResource.class
+com\mycompany\smartcampusapi\exception\RoomNotEmptyExceptionMapper.class
+com\mycompany\smartcampusapi\model\Room.class
+com\mycompany\smartcampusapi\exception\LinkedResourceNotFoundException.class
+com\mycompany\smartcampusapi\exception\LinkedResourceNotFoundExceptionMapper.class
+com\mycompany\smartcampusapi\model\Sensor.class
+com\mycompany\smartcampusapi\resource\RoomResource.class
+com\mycompany\smartcampusapi\resource\DiscoveryResource.class
+com\mycompany\smartcampusapi\resource\SensorResource.class
+com\mycompany\smartcampusapi\store\DataStore.class
+com\mycompany\smartcampusapi\exception\RoomNotEmptyException.class
+com\mycompany\smartcampusapi\exception\SensorUnavailableException.class
+com\mycompany\smartcampusapi\exception\SensorUnavailableExceptionMapper.class
