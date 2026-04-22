@@ -348,7 +348,7 @@ internal details in server-side logs where only administrators can access them.
 
 ---
 
-### Part 5.5 – Authentication Middleware
+Authentication Middleware
 
 This project implements API key authentication using a JAX-RS `ContainerRequestFilter`
 (`AuthFilter`) with `@Priority(Priorities.AUTHENTICATION)`. The filter intercepts every request
